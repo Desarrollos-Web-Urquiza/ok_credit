@@ -1,7 +1,7 @@
 const conex = require('../app/includes/conex')
 const db = conex.firestore
 
-let uid = "werner"
+let uid = "uid"
 
 
 
